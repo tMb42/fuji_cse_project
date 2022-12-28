@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'fuji_cse_project';
+  title = 'wb_pwd_engrs_ng15';
 }
